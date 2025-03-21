@@ -1,0 +1,11 @@
+Utilities\FakerUtility.class
+Pages\ManagePage.class
+Pages\DeleteUserPage.class
+Constant\Constants.class
+Utilities\ExelUtilities.class
+Utilities\WaitUtilities.class
+Pages\LoginPage.class
+Pages\AdminPage.class
+Utilities\ScreenshotUtility.class
+Utilities\ExtendReportUtility.class
+Utilities\PageUtilities.class
